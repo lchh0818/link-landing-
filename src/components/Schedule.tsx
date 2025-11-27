@@ -73,7 +73,7 @@ export default function Schedule() {
             <span className="text-nowrap text-subtext block md:hidden">
               현직에 종사하시는 졸업생 선배들의 창업 경험 이야기
             </span>
-            <span className="text-nowrap text-subtext text-gray500">최재림 <span className='text-item'>(김캐디 Co-founder/CTO)</span>, 김창환 <span className='text-item'>(익스팬드 대표이사)</span></span>
+            <span className="text-nowrap text-subtext text-gray500">name <span className='text-item'>(job)</span>, name <span className='text-item'>(job)</span></span>
           </div>
         </div>
         
