@@ -90,7 +90,7 @@ export default function Schedule() {
               <strong>여러 청소년 창업가들의 개인 연사 세션</strong>
             </span>
             <span className="text-nowrap text-subtext block md:hidden">여러 청소년 창업가들의 개인 연사 세션</span>
-            <span className="text-nowrap text-subtext text-gray500">장준하 (APGP), 서승표 (디미고 디미페이), 손보석 (경북소마고)</span>
+            <span className="text-nowrap text-subtext text-gray500">이름 (소속), 이름 (소속), 이름 (소속)</span>
           </div>
         </div>
         <div ref={scheduleRefs[4]} className="w-full flex flex-col md:flex-row gap-[8px] md:gap-[30px] items-center">
