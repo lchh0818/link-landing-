@@ -73,7 +73,7 @@ export default function Schedule() {
             <span className="text-nowrap text-subtext block md:hidden">
               현직에 종사하시는 졸업생 선배들의 창업 경험 이야기
             </span>
-            <span className="text-nowrap text-subtext text-gray500">name <span className='text-item'>(job)</span>, name <span className='text-item'>(job)</span></span>
+            <span className="text-nowrap text-subtext text-gray500">이름 <span className='text-item'>(소속)</span>, 이름 <span className='text-item'>(소속)</span></span>
           </div>
         </div>
         

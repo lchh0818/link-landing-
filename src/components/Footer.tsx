@@ -30,11 +30,11 @@ export default function Footer() {
           <span className="text-item text-link-white text-center">
             Developed by{' '}
             <Link
-              href="https://github.com/lchh0818"
+              href="https://github.com/sspzoa"
               className="ease-in-out duration-500 hover:opacity-50"
               target="_blank"
               rel="noreferrer">
-              lchh0818
+              sspzoa
             </Link>{' '}
           </span>
         </div>
