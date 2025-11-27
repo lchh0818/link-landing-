@@ -26,14 +26,14 @@ export default function Clubs() {
       </span>
       <div ref={refs[2]} className="max-w-4xl flex flex-wrap justify-center items-center gap-8 md:gap-24">
         <img className="w-12 md:w-16" src="/club-logo/LUNA.svg" />
+        <img className="w-12 md:w-16" src="/club-logo/mrmr.svg" />   
+        <img className="w-12 md:w-16" src="/club-logo/just.png" />
+        <img className="w-12 md:w-16" src="/club-logo/miven.png" />
         <img className="w-12 md:w-16" src="/club-logo/tapey.svg" />
-        <img className="w-12 md:w-16" src="/club-logo/mrmr.svg" />        
         <img className="h-6 md:h-8" src="/club-logo/devcoop.svg" />
 
-        <img className="w-12 md:w-16" src="/club-logo/just.png" />
-        <img className="w-12 md:w-10" src="/club-logo/BFD.svg" />
         <img className="w-12 md:w-16" src="/club-logo/absolute.svg" />
-        <img className="w-12 md:w-16" src="/club-logo/miven.png" />
+        <img className="w-12 md:w-10" src="/club-logo/BFD.svg" />
         <img className="w-12 md:w-16" src="/club-logo/cpu.png" />
       </div>
     </div>
