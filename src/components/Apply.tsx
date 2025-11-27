@@ -21,7 +21,7 @@ export default function Apply() {
       </span>
       <Link
         className="ease-in-out duration-500 hover:opacity-50"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSeX8Dv4_vwvSPMQGz88gOtg8DMKzOlu-qEMP8avtl0n-dQZdw/viewform?usp=sf_link"
+        href="https://forms.gle/fAXEjHq4whE2Hdqb6"
         target="_blank"
         rel="noreferrer noopener">
         <div
