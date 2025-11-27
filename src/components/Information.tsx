@@ -93,7 +93,7 @@ export default function Information() {
         <img src="/sponsors/candid.png" alt="inflearn" width={256}/>
       </div>
       <span ref={refs[12]} className="text-gray500 text-paragraph text-nowrap">
-        장소 후원
+        공간 후원
       </span>
       <div ref={refs[13]} className="flex flex-col md:flex-row w-full gap-8 justify-center items-center">
         <img src="/sponsors/dcamp.png" alt="ansan" width={256}/>
