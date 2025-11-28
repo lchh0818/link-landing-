@@ -6,7 +6,7 @@ export default function Onboarding() {
     <div className="bg-[url('/images/background2.png')] bg-cover h-screen flex justify-center items-center px-[24px]">
       <div className="max-w-[1400px] w-full flex flex-col items-start md:items-center md:flex-row gap-[30px] ">
         <Image className="hidden md:block" src="/link-logo/logo-text.svg" alt="linkLogo" width={222} height={97} />
-        <Image className="block md:hidden" src="/link-logo/logo-text.svg" alt="linkLogo" width={148} height={65} />
+        <Image className="block md:hidden" src="/link-logo/logo-text.svg" alt="linkLogo" width={148}   height={65} />
         <hr className="bg-[#f9f8fe] w-full h-[3px] rounded-full" />
         <div className="flex flex-col gap-[30px] md:gap-[40px] items-start md:items-end">
           <span className="text-nowrap text-left md:text-right text-title text-[#f9f8fe]">
