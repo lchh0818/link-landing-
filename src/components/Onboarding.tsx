@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Onboarding() {
   return (
-    <div className="bg-[url('/images/background.png')] bg-cover h-screen flex justify-center items-center px-[24px]">
+    <div className="bg-[url('/images/background2.png')] bg-cover h-screen flex justify-center items-center px-[24px]">
       <div className="max-w-[1400px] w-full flex flex-col items-start md:items-center md:flex-row gap-[30px] ">
         <Image className="hidden md:block" src="/link-logo/logo-text.svg" alt="linkLogo" width={222} height={97} />
         <Image className="block md:hidden" src="/link-logo/logo-text.svg" alt="linkLogo" width={148} height={65} />
