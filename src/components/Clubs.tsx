@@ -31,6 +31,7 @@ export default function Clubs() {
         <img className="w-12 md:w-16" src="/club-logo/miven.png" />
         <img className="w-12 md:w-16" src="/club-logo/tapey.svg" />
         <img className="h-6 md:h-8" src="/club-logo/devcoop.svg" />
+        <img className="w-12 md:w-16" src="/club-logo/noid.png" />
 
         <img className="w-12 md:w-16" src="/club-logo/absolute.svg" />
         <img className="w-12 md:w-10" src="/club-logo/BFD.svg" />
