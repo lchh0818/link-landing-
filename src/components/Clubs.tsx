@@ -19,8 +19,8 @@ export default function Clubs() {
         <strong>
           한국디지털미디어고등학교, 부산소프트웨어마이스터고등학교, 선린인터넷고등학교,
           <br className="hidden md:block" />
-          미림마이스터고등학교, 경북소프트웨어마이스터고등학교의
-          9개 동아리
+          미림마이스터고등학교, 경북소프트웨어마이스터고등학교,단국대학교부속소프트웨어고등학교의
+          10개 동아리
         </strong>
         와 함께합니다.
       </span>
@@ -31,11 +31,11 @@ export default function Clubs() {
         <img className="w-12 md:w-16" src="/club-logo/miven.png" />
         <img className="w-12 md:w-16" src="/club-logo/tapey.svg" />
         <img className="h-6 md:h-8" src="/club-logo/devcoop.svg" />
-        <img className="w-12 md:w-16" src="/club-logo/noid.png" />
 
         <img className="w-12 md:w-16" src="/club-logo/absolute.svg" />
         <img className="w-12 md:w-10" src="/club-logo/BFD.svg" />
         <img className="w-12 md:w-16" src="/club-logo/cpu.png" />
+        <img className="w-12 md:w-16" src="/club-logo/noid.png" />
       </div>
     </div>
   );

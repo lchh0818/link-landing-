@@ -45,9 +45,9 @@ export default function Previous() {
               다양한 동아리의 <span className="text-link-purple">만남</span>
             </span>
             <span className="text-paragraph">
-              한국디지털미디어고등학교를 중심으로 5개의
+              한국디지털미디어고등학교를 중심으로 9개의
               <br />
-              학교에서 총 8곳의 동아리가 참가하여,
+              학교에서 총 11곳의 동아리가 참가하여,
               <br />
               서로의 활동을 공유하였습니다.
             </span>
