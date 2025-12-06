@@ -73,8 +73,7 @@ export default function Schedule() {
             <span className="text-nowrap text-subtext block md:hidden">
               현직에 종사하시는 졸업생 선배들의 창업 경험 이야기
             </span>
-            {/* <span className="text-nowrap text-subtext text-gray500">이름 <span className='text-item'>(소속)</span>, 이름 <span className='text-item'>(소속)</span></span> */}
-            <span className="text-nowrap text-subtext text-gray500">추후 공개 예정</span>
+            <span className="text-nowrap text-subtext text-gray500">김아인 <span className='text-item'>(뭐지 뉴스레터 대표 & 호랑에듀 매니저)</span>, 설은서 <span className='text-item'>(NextGen Founder & CEO)</span></span>
           </div>
         </div>
         
@@ -91,7 +90,7 @@ export default function Schedule() {
               <strong>여러 청소년 창업가들의 개인 연사 세션</strong>
             </span>
             <span className="text-nowrap text-subtext block md:hidden">여러 청소년 창업가들의 개인 연사 세션</span>
-            <span className="text-nowrap text-subtext text-gray500">추후 공개 예정</span>
+            <span className="text-nowrap text-subtext text-gray500">김형석 <span className='text-item'>(한국디지털미디어고등학교)</span>, 정준영 <span className='text-item'>(한국디지털미디어고등학교)</span></span>
           </div>
         </div>
         <div ref={scheduleRefs[4]} className="w-full flex flex-col md:flex-row gap-[8px] md:gap-[30px] items-center">

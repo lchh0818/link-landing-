@@ -30,7 +30,7 @@ export default function Previous() {
               미래의 창업가를 <span className="text-link-purple">연결</span>하다
             </span>
             <span className="text-paragraph">
-              약 130명가량의 미래의 창업가들이 모여,
+              약 150명가량의 미래의 창업가들이 모여,
               <br />
               다양한 경험과 비전을 공유하고, 서로 네트워킹하는
               <br />
